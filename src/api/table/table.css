@@ -1,0 +1,175 @@
+.cs_tablePagination {
+	width: 100%;
+	text-align: right;
+	margin-top: 5px;
+}
+
+.cs_export_normal {
+	font-family:"iconfont" !important;
+	font-size: 15px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#A51E30 ;
+	background-color: #FEE87E !important;
+}
+
+.cs_export_normal:hover {
+	font-size: 15px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#FFFFFF ;
+	background-color: #A51E30 !important;
+}
+
+.cs_export_disabled {
+	font-family:"iconfont" !important;
+	font-size: 15px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#D2D2D2 ;
+	background-color: #EBEBEB !important;
+}
+
+.cs_export_disabled:hover {
+	font-size: 15px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#D2D2D2 ;
+	background-color: #EBEBEB !important;
+}
+
+.cs_export_div {
+	display: inline-block;
+	border: none;
+	margin-left:5px;
+	width:23px;
+	height:23px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cs_page_div {
+	display: inline-block;
+	border: none;
+	margin-left:5px;
+	width:23px;
+	height:23px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.cs_page_normal {
+	font-size: 10px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#A51E30 ;
+	background-color: #FEE87E !important;
+}
+
+.cs_page_normal:hover {
+	font-size: 10px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#FFFFFF ;
+	background-color: #A51E30 !important;
+}
+
+.cs_page_disabled {
+	font-size: 10px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#D2D2D2 ;
+	background-color: #EBEBEB !important;
+}
+
+.cs_page_disabled:hover {
+	font-size: 10px;
+	border: none;
+	padding: 0 0 0 0;
+	width: 20px;
+	height: 20px;
+	color:#D2D2D2 ;
+	background-color: #EBEBEB !important;
+}
+
+.checkbox_table {
+	padding-left: 3px;
+	margin-top: 1px;
+}
+
+.addHead_table {
+	width: 25px;
+	height: 25px;
+	padding-left: 2px;
+	padding-top: 0px;
+	background-color: #e5e5e5;
+	border-color: #e5e5e5;
+}
+
+.addHead_table:hover {
+	width: 25px;
+	height: 25px;
+	padding-left: 2px;
+	padding-top: 0px;
+	background-color: #e5e5e5;
+	border-color: #e5e5e5;
+}
+
+.removeColumn_table {
+	width: 25px;
+	height: 25px;
+	padding-left: 0px;
+	padding-top: 0px;
+	background-color: #ffffff;
+	border-color: #ffffff;
+}
+
+.removeColumn_table:hover {
+	width: 25px;
+	height: 25px;
+	padding-left: 0px;
+	padding-top: 0px;
+	background-color: #ffffff;
+	border-color: #ffffff;
+}
+
+.editfield_table {
+	width: 100%;
+	height: 22px;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+
+.link_table {
+	height: 22px;
+	padding-left: 0px;
+	padding-top: 0px;
+}
+
+.rsuite-table-treetable .rsuite-table-row2 {
+  position: relative;
+}
+.rsuite-table-treetable .rsuite-table-row2 .expand-icon {
+  width: 10px;
+  cursor: pointer;
+}
+.rsuite-table-treetable .rsuite-table-row2 .expand-icon:before {
+  content: "\f0da";
+}
+.rsuite-table-treetable .open > .rsuite-table-row2 .expand-icon:before {
+  content: "\f0d7";
+}
